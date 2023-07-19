@@ -1,4 +1,5 @@
 ![image.png](https://i.postimg.cc/Cx52mZ1R/Frame-69.png)
+> [Скачать](https://github.com/Frogdream/Frogdream-Launcher/releases) | [Обратиться за помощью](https://discord.com/invite/52P7esPQ6Q) | [Заявить о баге](https://discord.com/invite/52P7esPQ6Q)
 
 ## О лаунчере
 Его основная цель — предоставить быстрый доступ к кубам без лишней хуйни. Основные фишки лаунчера:
