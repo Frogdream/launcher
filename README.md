@@ -1,4 +1,4 @@
-![image.png](https://i.postimg.cc/Cx52mZ1R/Frame-69.png)
+
 > [Download](https://github.com/Frogdream/Frogdream-Launcher/releases) | [Help](https://discord.com/invite/52P7esPQ6Q) | [Issue](https://discord.com/invite/52P7esPQ6Q)
 
 ## Downloading
