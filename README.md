@@ -13,5 +13,5 @@ Simple, light-weight Minecraft launcher.
 - Settings, optimization, version chooser, white theme
 - Faster then other popular launchers
 - Quickest account switching
-- 30 mods and [KSEPSP](https://www.planetminecraft.com/texture-pack/ksepsp-v8-0/)
+- 30 mods
 - No ads
